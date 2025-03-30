@@ -1,10 +1,21 @@
 *-----------------------------------------------------------
 * Restaurant Sales Analysis Project
-*This analysis examines the sales data of a restaurant over a period of 12 months. The goal is to assess the overall sales trends, item category contributions, and month-to-month sales growth. The dataset includes detailed information about total sales by month, sales breakdown by item category, and sales growth by month. Key points observed from the analysis include:
-/*Total Sales by Month: Sales fluctuate throughout the year, with certain months experiencing significant increases or decreases. Specific months show notable trends.
-Sales Breakdown by Item Category: The restaurant's sales are divided between fast food and beverages, with each category contributing a substantial portion to overall sales.
-Top-Selling Products: The most popular products include a mix of fast food items and beverages, contributing heavily to total sales.
-Month-to-Month Sales Growth: Sales growth varies across the months, with some months showing a strong increase and others reflecting a noticeable decline. */
+/*This project analyzes the sales data of a restaurant over a 12-month period, with the aim of providing insights into sales trends, item category performance, and month-to-month sales growth. By examining detailed sales data, we aim to identify key patterns that can guide future business decisions, such as inventory management, marketing strategies, and product offerings.
+
+Objectives of the Analysis:
+
+Assess Total Sales Trends: Understand fluctuations in sales over the course of the year, identifying months with significant increases or declines.
+Evaluate Sales Breakdown by Item Category: Analyze the contribution of fast food and beverage categories to total sales, highlighting their relative importance.
+Identify Top-Selling Products: Pinpoint the restaurant's most popular items and understand which products contribute the most to overall sales.
+Track Month-to-Month Sales Growth: Observe and analyze the changes in sales from one month to another, identifying growth and decline patterns.
+
+Key findings from the analysis include:
+
+Total Sales by Month: Sales fluctuate throughout the year, with significant increases in May and October, while drops are observed in months such as April, June, and September.
+Sales Breakdown by Item Category: Fast food items contribute 68.46% of total sales, while beverages account for 31.38%.
+Top-Selling Products: Among the most popular items are Frankie, Sandwich, and Cold Coffee, which collectively make up a significant portion of total sales.
+Month-to-Month Sales Growth: Sales growth shows notable variability, with some months experiencing strong increases and others facing declines.
+Through this analysis, the restaurant can better understand sales dynamics, optimize its product mix, and make data-driven decisions to boost profitability and operational efficiency. */
 *-----------------------------------------------------------
 
 *-----------------------------------------------------------
@@ -284,7 +295,11 @@ graph export "/Users/jovanyvillegas/Desktop/Restaurant-Sales-Analysis/visualizat
 /*The analysis of the restaurant's sales performance over the year reveals several important trends and insights:
 
 Total Sales: Sales fluctuate significantly throughout the year, with notable growth in May and October, and declines in June and September.
+
 Sales by Item Category: Fast food is the dominant category, contributing 68.46% of the total sales, while beverages account for 31.38% of the revenue.
+
 Top-Selling Products: The Frankie, Sandwich, and Cold Coffee are the best-selling items, making the highest contributions to total sales.
+
 Month-to-Month Sales Growth: There are periods of substantial sales growth, particularly in May (+50.37%) and October (+45.95%). However, certain months such as June (-34.76%) and September (-16.43%) experienced noticeable declines.
+
 Overall, this analysis provides valuable insights that can guide the restaurant in making data-driven decisions. By focusing on the most popular items and adjusting strategies during months of decline, the restaurant can optimize inventory, marketing, and menu offerings to better align with customer preferences and maximize revenue.*/
